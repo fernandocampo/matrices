@@ -1,0 +1,7 @@
+*.out
+*.exe
+ej1matrices
+ej2matrices
+ej3matrices
+tempCodeRunnerFile.cpp
+.vscode/
